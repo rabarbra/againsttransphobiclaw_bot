@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-token = '903336680:AAHPdEgfHASZlXNTIIv4-Lgnh4JdKerq2VE'
+token = ''
 font = 'res/Roboto-Bold.ttf'
 fontsize = 50
 font_co = 740
